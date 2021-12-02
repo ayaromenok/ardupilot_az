@@ -1,5 +1,5 @@
 #DXF
-*.~dxf
+*.dxf~
 
 # C++ objects and libs
 *.slo
