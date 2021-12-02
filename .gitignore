@@ -1,3 +1,6 @@
+#DXF
+*.~dxf
+
 # C++ objects and libs
 *.slo
 *.lo
