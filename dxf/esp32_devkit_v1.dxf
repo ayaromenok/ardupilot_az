@@ -33,7 +33,7 @@ $EXTMAX
  10
 36
  20
-36.1
+37.4
  30
 0
   9
@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-GY9265
+0
   9
 $CELTYPE
   6
@@ -801,6 +801,10 @@ $PEXTMAX
  30
 0
   9
+$GRIDMODE
+ 70
+    1
+  9
 $SNAPSTYLE
  70
     0
@@ -1111,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-49.76581064290244
+38.77055886946852
  22
-23.62980937001123
+29.04839842199774
  13
 0
  23
@@ -1139,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-73.30611315923939
+64.47327454638521
  41
 2.528693528693529
  42
@@ -2429,7 +2433,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-Standard
+STANDARD
  70
     0
  40
@@ -2443,7 +2447,7 @@ Standard
  42
 1
   3
-txt
+STANDARD
   4
 
   0
@@ -2549,7 +2553,7 @@ Standard
  70
     0
  40
-1
+2.5
  41
 2.5
  42
@@ -2573,7 +2577,7 @@ Standard
 141
 0.09
 142
-2.5
+0
 143
 25.4
 144
@@ -2601,7 +2605,7 @@ Standard
  77
     0
  78
-    1
+    8
  79
     0
 170
@@ -2639,7 +2643,7 @@ Standard
 277
     2
 278
-    0
+   44
 279
     0
 280
@@ -2661,7 +2665,7 @@ Standard
 289
     3
 340
-standard
+STANDARD
 341
 
 371
@@ -2879,7 +2883,7 @@ AcDbMText
   1
 5V0
   7
-
+STANDARD
 210
 0
 220
@@ -3457,7 +3461,7 @@ AcDbMText
   1
 GND
   7
-
+STANDARD
 210
 0
 220
@@ -3541,7 +3545,7 @@ AcDbMText
   1
 3V3
   7
-
+STANDARD
 210
 0
 220
@@ -4119,7 +4123,7 @@ AcDbMText
   1
 GND
   7
-
+STANDARD
 210
 0
 220
@@ -4165,7 +4169,7 @@ AcDbMText
   1
 G15
   7
-
+STANDARD
 210
 0
 220
@@ -4211,7 +4215,7 @@ AcDbMText
   1
 G02
   7
-
+STANDARD
 210
 0
 220
@@ -4257,7 +4261,7 @@ AcDbMText
   1
 G04
   7
-
+STANDARD
 210
 0
 220
@@ -4303,7 +4307,7 @@ AcDbMText
   1
 G16
   7
-
+STANDARD
 210
 0
 220
@@ -4349,7 +4353,7 @@ AcDbMText
   1
 G17
   7
-
+STANDARD
 210
 0
 220
@@ -4585,7 +4589,7 @@ AcDbMText
   1
 VCC
   7
-
+STANDARD
 210
 0
 220
@@ -4631,7 +4635,7 @@ AcDbMText
   1
 GND
   7
-
+STANDARD
 210
 0
 220
@@ -4677,7 +4681,7 @@ AcDbMText
   1
 TX
   7
-
+STANDARD
 210
 0
 220
@@ -4723,7 +4727,7 @@ AcDbMText
   1
 RX
   7
-
+STANDARD
 210
 0
 220
@@ -4769,7 +4773,7 @@ AcDbMText
   1
 PPS
   7
-
+STANDARD
 210
 0
 220
@@ -5141,7 +5145,7 @@ AcDbMText
   1
 GPS
   7
-
+STANDARD
 210
 0
 220
@@ -5187,7 +5191,7 @@ AcDbMText
   1
 G05
   7
-
+STANDARD
 210
 0
 220
@@ -5233,7 +5237,7 @@ AcDbMText
   1
 G18
   7
-
+STANDARD
 210
 0
 220
@@ -5279,7 +5283,7 @@ AcDbMText
   1
 G19
   7
-
+STANDARD
 210
 0
 220
@@ -5325,7 +5329,7 @@ AcDbMText
   1
 G21
   7
-
+STANDARD
 210
 0
 220
@@ -5371,7 +5375,7 @@ AcDbMText
   1
 G03
   7
-
+STANDARD
 210
 0
 220
@@ -5417,7 +5421,7 @@ AcDbMText
   1
 G01
   7
-
+STANDARD
 210
 0
 220
@@ -5463,7 +5467,7 @@ AcDbMText
   1
 G22
   7
-
+STANDARD
 210
 0
 220
@@ -5509,7 +5513,7 @@ AcDbMText
   1
 G23
   7
-
+STANDARD
 210
 0
 220
@@ -5555,7 +5559,7 @@ AcDbMText
   1
 G13
   7
-
+STANDARD
 210
 0
 220
@@ -5601,7 +5605,7 @@ AcDbMText
   1
 G12
   7
-
+STANDARD
 210
 0
 220
@@ -5647,7 +5651,7 @@ AcDbMText
   1
 G14
   7
-
+STANDARD
 210
 0
 220
@@ -5693,7 +5697,7 @@ AcDbMText
   1
 G27\P
   7
-
+STANDARD
 210
 0
 220
@@ -5739,7 +5743,7 @@ AcDbMText
   1
 G26\P
   7
-
+STANDARD
 210
 0
 220
@@ -5785,7 +5789,7 @@ AcDbMText
   1
 G25\P
   7
-
+STANDARD
 210
 0
 220
@@ -5831,7 +5835,7 @@ AcDbMText
   1
 G33\P
   7
-
+STANDARD
 210
 0
 220
@@ -5877,7 +5881,7 @@ AcDbMText
   1
 G32\P
   7
-
+STANDARD
 210
 0
 220
@@ -5923,7 +5927,7 @@ AcDbMText
   1
 G35\P
   7
-
+STANDARD
 210
 0
 220
@@ -5969,7 +5973,7 @@ AcDbMText
   1
 G34\P
   7
-
+STANDARD
 210
 0
 220
@@ -6015,7 +6019,7 @@ AcDbMText
   1
 G39\P
   7
-
+STANDARD
 210
 0
 220
@@ -6061,7 +6065,7 @@ AcDbMText
   1
 G36\P
   7
-
+STANDARD
 210
 0
 220
@@ -6107,7 +6111,7 @@ AcDbMText
   1
 EN\P
   7
-
+STANDARD
 210
 0
 220
@@ -6153,7 +6157,7 @@ AcDbMText
   1
 TX2
   7
-
+STANDARD
 210
 0
 220
@@ -6199,7 +6203,7 @@ AcDbMText
   1
 RX2
   7
-
+STANDARD
 210
 0
 220
@@ -6245,7 +6249,7 @@ AcDbMText
   1
 RX0\P
   7
-
+STANDARD
 210
 0
 220
@@ -6291,7 +6295,7 @@ AcDbMText
   1
 TX0\P
   7
-
+STANDARD
 210
 0
 220
@@ -6489,7 +6493,7 @@ AcDbMText
   1
 GND
   7
-
+STANDARD
 210
 0
 220
@@ -6535,7 +6539,7 @@ AcDbMText
   1
 5V0
   7
-
+STANDARD
 210
 0
 220
@@ -6581,7 +6585,7 @@ AcDbMText
   1
 PPM\P
   7
-
+STANDARD
 210
 0
 220
@@ -6915,7 +6919,7 @@ AcDbMText
   1
 RC
   7
-
+STANDARD
 210
 0
 220
@@ -7227,7 +7231,7 @@ AcDbMText
   1
 SR1
   7
-
+STANDARD
 210
 0
 220
@@ -7273,7 +7277,7 @@ AcDbMText
   1
 SR2
   7
-
+STANDARD
 210
 0
 220
@@ -7319,7 +7323,7 @@ AcDbMText
   1
 SR3
   7
-
+STANDARD
 210
 0
 220
@@ -7365,7 +7369,7 @@ AcDbMText
   1
 SR4
   7
-
+STANDARD
 210
 0
 220
@@ -7411,7 +7415,7 @@ AcDbMText
   1
 SR5
   7
-
+STANDARD
 210
 0
 220
@@ -7457,7 +7461,7 @@ AcDbMText
   1
 SR6
   7
-
+STANDARD
 210
 0
 220
@@ -8079,7 +8083,7 @@ AcDbMText
   1
 ELE
   7
-
+STANDARD
 210
 0
 220
@@ -8125,7 +8129,7 @@ AcDbMText
   1
 THR
   7
-
+STANDARD
 210
 0
 220
@@ -8171,7 +8175,7 @@ AcDbMText
   1
 RUD
   7
-
+STANDARD
 210
 0
 220
@@ -8217,7 +8221,7 @@ AcDbMText
   1
 AU0
   7
-
+STANDARD
 210
 0
 220
@@ -8263,7 +8267,7 @@ AcDbMText
   1
 AU1
   7
-
+STANDARD
 210
 0
 220
@@ -8309,7 +8313,7 @@ AcDbMText
   1
 S\PE\PR\PV\PO
   7
-
+STANDARD
 210
 0
 220
@@ -8355,7 +8359,7 @@ AcDbMText
   1
 AIL
   7
-
+STANDARD
 210
 0
 220
@@ -8439,7 +8443,7 @@ AcDbMText
   1
 D0
   7
-
+STANDARD
 210
 0
 220
@@ -8485,7 +8489,7 @@ AcDbMText
   1
 CLK
   7
-
+STANDARD
 210
 0
 220
@@ -8531,7 +8535,7 @@ AcDbMText
   1
 CMD
   7
-
+STANDARD
 210
 0
 220
@@ -8577,7 +8581,7 @@ AcDbMText
   1
 VSS
   7
-
+STANDARD
 210
 0
 220
@@ -8623,7 +8627,7 @@ AcDbMText
   1
 VCC
   7
-
+STANDARD
 210
 0
 220
@@ -8859,7 +8863,7 @@ AcDbMText
   1
 SD
   7
-
+STANDARD
 210
 0
 220
@@ -9519,7 +9523,7 @@ AcDbMText
   1
 SDO
   7
-
+STANDARD
 210
 0
 220
@@ -9603,7 +9607,7 @@ AcDbMText
   1
 CSB
   7
-
+STANDARD
 210
 0
 220
@@ -9649,7 +9653,7 @@ AcDbMText
   1
 SDA
   7
-
+STANDARD
 210
 0
 220
@@ -9695,7 +9699,7 @@ AcDbMText
   1
 SCL
   7
-
+STANDARD
 210
 0
 220
@@ -9741,7 +9745,7 @@ AcDbMText
   1
 GND
   7
-
+STANDARD
 210
 0
 220
@@ -9787,7 +9791,7 @@ AcDbMText
   1
 VCC
   7
-
+STANDARD
 210
 0
 220
@@ -10023,7 +10027,7 @@ AcDbMText
   1
 SCL
   7
-
+STANDARD
 210
 0
 220
@@ -10069,7 +10073,7 @@ AcDbMText
   1
 SDA
   7
-
+STANDARD
 210
 0
 220
@@ -10355,7 +10359,7 @@ AcDbMText
   1
 BM280
   7
-
+STANDARD
 210
 0
 220
@@ -10477,7 +10481,7 @@ AcDbMText
   1
 FSY
   7
-
+STANDARD
 210
 0
 220
@@ -10865,7 +10869,7 @@ AcDbMText
   1
 NCS
   7
-
+STANDARD
 210
 0
 220
@@ -10911,7 +10915,7 @@ AcDbMText
   1
 INT
   7
-
+STANDARD
 210
 0
 220
@@ -10957,7 +10961,7 @@ AcDbMText
   1
 SDO
   7
-
+STANDARD
 210
 0
 220
@@ -11003,7 +11007,7 @@ AcDbMText
   1
 ECL
   7
-
+STANDARD
 210
 0
 220
@@ -11049,7 +11053,7 @@ AcDbMText
   1
 EDA
   7
-
+STANDARD
 210
 0
 220
@@ -11095,7 +11099,7 @@ AcDbMText
   1
 SDA
   7
-
+STANDARD
 210
 0
 220
@@ -11141,7 +11145,7 @@ AcDbMText
   1
 SCL
   7
-
+STANDARD
 210
 0
 220
@@ -11187,7 +11191,7 @@ AcDbMText
   1
 GND
   7
-
+STANDARD
 210
 0
 220
@@ -11233,7 +11237,7 @@ AcDbMText
   1
 VCC
   7
-
+STANDARD
 210
 0
 220
@@ -11279,7 +11283,7 @@ AcDbMText
   1
 GY92/65
   7
-
+STANDARD
 210
 0
 220
@@ -12218,6 +12222,246 @@ AcDbLine
 17.5
  21
 30.9
+  0
+MTEXT
+  5
+166
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+-9.800000000000001
+ 20
+37.2
+ 30
+0
+ 40
+1
+ 41
+2.111111111111173
+ 71
+    1
+ 72
+    1
+  1
+LED
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+167
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+-4.8
+ 20
+37.2
+ 30
+0
+ 40
+1
+ 41
+2.111111111111173
+ 71
+    1
+ 72
+    1
+  1
+G02
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+LWPOLYLINE
+  5
+168
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+-10
+ 20
+36
+ 10
+-7.5
+ 20
+36
+ 10
+-7.5
+ 20
+37.4
+ 10
+-10
+ 20
+37.4
+  0
+LWPOLYLINE
+  5
+169
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+-5
+ 20
+36
+ 10
+-2.5
+ 20
+36
+ 10
+-2.5
+ 20
+37.4
+ 10
+-5
+ 20
+37.4
+  0
+LINE
+  5
+16A
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-7.5
+ 20
+37
+ 11
+-7
+ 21
+37
+  0
+LINE
+  5
+16B
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-7
+ 20
+37
+ 11
+-6
+ 21
+36.4
+  0
+LINE
+  5
+16C
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-6
+ 20
+36.4
+ 11
+-5
+ 21
+36.4
   0
 ENDSEC
   0
