@@ -1,5 +1,7 @@
 #DXF
 *.dxf~
+logs
+bin
 
 # C++ objects and libs
 *.slo
