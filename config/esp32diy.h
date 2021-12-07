@@ -100,7 +100,7 @@
 #define HAL_INS_MPU9250_NAME "mpu9250"
 
 // uncommenting one or more of these will give more console debug in certain areas..
-//#define INSEDEBUG 1
+#define INSEDEBUG 1
 //#define STORAGEDEBUG 1
 //#define SCHEDDEBUG 1
 //#define FSDEBUG 1
@@ -169,7 +169,7 @@
 //  as mmc uses specific pins but is quicker,
 //#define HAL_ESP32_SDMMC 1
 // and spi is more flexible pinouts....  dont forget vspi/hspi should be selected to NOT conflict with SPI_BUSES above
-#define HAL_ESP32_SDSPI {.host=VSPI_HOST, .dma_ch=2, .mosi=GPIO_NUM_2, .miso=GPIO_NUM_15, .sclk=GPIO_NUM_14, .cs=GPIO_NUM_21}
+#define HAL_ESP32_SDSPI {.host=VSPI_HOST, .dma_ch=2, .mosi=GPIO_NUM_15, .miso=GPIO_NUM_2, .sclk=GPIO_NUM_14, .cs=GPIO_NUM_21}
 
 #define HAL_ESP32_SDCARD 1
 #define LOGGER_MAVLINK_SUPPORT 1
@@ -178,7 +178,9 @@
 #define HAL_BOARD_STORAGE_DIRECTORY "/SDCARD/APM/STORAGE"
 #define HAL_OS_POSIX_IO 1
 
+#define HAL_LOGGING_FILESYSTEM_ENABLE 1
+
 // this becomes the default value for the ardupilot param LOG_BACKEND_TYPE, which most ppl want to be 1, for log-to-flash
 // setting to 2 means log-over-mavlink to a companion computer etc.
-#define HAL_LOGGING_BACKENDS_DEFAULT 1
+//#define HAL_LOGGING_BACKENDS_DEFAULT 1
 
