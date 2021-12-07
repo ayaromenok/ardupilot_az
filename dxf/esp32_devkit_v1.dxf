@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-47.26247120373615
+30.13940264703162
  22
-25.20365622176424
+9.345409437277404
  13
 0
  23
@@ -1143,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-73.67913761799171
+29.99309486719167
  41
 2.525609756097561
  42
@@ -5907,7 +5907,7 @@ AcDbMText
   1
 LED
   7
-STANDARD
+standard
 210
 0
 220
@@ -5953,7 +5953,7 @@ AcDbMText
   1
 G02
   7
-STANDARD
+standard
 210
 0
 220
@@ -12127,7 +12127,7 @@ AcDbMText
   1
 MISO
   7
-STANDARD
+standard
 210
 0
 220
@@ -12173,7 +12173,7 @@ AcDbMText
   1
 MOSI
   7
-STANDARD
+standard
 210
 0
 220
@@ -12219,7 +12219,7 @@ AcDbMText
   1
 CLK
   7
-STANDARD
+standard
 210
 0
 220
@@ -12265,7 +12265,7 @@ AcDbMText
   1
 CS0
   7
-STANDARD
+standard
 210
 0
 220
@@ -12445,7 +12445,7 @@ AcDbMText
   1
 GND
   7
-
+STANDARD
 210
 0
 220
@@ -12491,7 +12491,7 @@ AcDbMText
   1
 3V3
   7
-
+STANDARD
 210
 0
 220
@@ -12537,7 +12537,7 @@ AcDbMText
   1
 5V0
   7
-
+STANDARD
 210
 0
 220
@@ -12583,7 +12583,7 @@ AcDbMText
   1
 CS
   7
-
+STANDARD
 210
 0
 220
@@ -12629,7 +12629,7 @@ AcDbMText
   1
 MOSI
   7
-
+STANDARD
 210
 0
 220
@@ -12675,7 +12675,7 @@ AcDbMText
   1
 SCK
   7
-
+STANDARD
 210
 0
 220
@@ -12721,7 +12721,7 @@ AcDbMText
   1
 MISO
   7
-
+STANDARD
 210
 0
 220
@@ -12767,7 +12767,7 @@ AcDbMText
   1
 GND
   7
-
+STANDARD
 210
 0
 220
@@ -13117,7 +13117,7 @@ AcDbMText
   1
 SD/\PSPI
   7
-
+STANDARD
 210
 0
 220
@@ -13163,7 +13163,7 @@ AcDbMText
   1
 SD/\PMMC
   7
-
+STANDARD
 210
 0
 220
@@ -13615,13 +13615,13 @@ ByLayer
 100
 AcDbLine
  10
-15.8
+29.7
  20
-4.9
+-9
  11
-20.5
+22.5
  21
-4.9
+-9
   0
 LINE
   5
@@ -13639,13 +13639,13 @@ ByLayer
 100
 AcDbLine
  10
-20.5
+22.5
  20
-4.9
+-9
  11
 21.5
  21
-4.5
+-8.5
   0
 LINE
   5
@@ -13663,13 +13663,13 @@ ByLayer
 100
 AcDbLine
  10
-29.7
+20.5
  20
--9
+-11.5
  11
-22.5
+21.5
  21
--9
+-12
   0
 LINE
   5
@@ -13687,13 +13687,13 @@ ByLayer
 100
 AcDbLine
  10
-22.5
- 20
--9
- 11
 21.5
+ 20
+-12
+ 11
+29.8
  21
--8.5
+-12
   0
 LINE
   5
@@ -13711,13 +13711,13 @@ ByLayer
 100
 AcDbLine
  10
-21.5
+29.8
  20
--8.5
+-10.5
  11
-21.5
+-9.000000000000002
  21
-4.5
+-10.5
   0
 LINE
   5
@@ -13735,161 +13735,17 @@ ByLayer
 100
 AcDbLine
  10
-15.8
+-9.000000000000002
  20
-3.4
+-10.5
  11
-19.5
+-10
  21
-3.4
+-10
   0
 LINE
   5
 192
-100
-AcDbEntity
-  8
-SD_card_SPI
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-19.5
- 20
-3.4
- 11
-20.5
- 21
-2.9
-  0
-LINE
-  5
-193
-100
-AcDbEntity
-  8
-SD_card_SPI
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-20.5
- 20
-2.9
- 11
-20.5
- 21
--11.5
-  0
-LINE
-  5
-194
-100
-AcDbEntity
-  8
-SD_card_SPI
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-20.5
- 20
--11.5
- 11
-21.5
- 21
--12
-  0
-LINE
-  5
-195
-100
-AcDbEntity
-  8
-SD_card_SPI
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-21.5
- 20
--12
- 11
-29.8
- 21
--12
-  0
-LINE
-  5
-196
-100
-AcDbEntity
-  8
-SD_card_SPI
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-29.8
- 20
--10.5
- 11
--9.000000000000002
- 21
--10.5
-  0
-LINE
-  5
-197
-100
-AcDbEntity
-  8
-SD_card_SPI
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
--9.000000000000002
- 20
--10.5
- 11
--10
- 21
--10
-  0
-LINE
-  5
-198
 100
 AcDbEntity
   8
@@ -13913,7 +13769,7 @@ AcDbLine
   0
 LINE
   5
-199
+193
 100
 AcDbEntity
   8
@@ -13937,7 +13793,7 @@ AcDbLine
   0
 LINE
   5
-19A
+194
 100
 AcDbEntity
   8
@@ -13958,6 +13814,150 @@ AcDbLine
 -10
  21
 -10
+  0
+LINE
+  5
+195
+100
+AcDbEntity
+  8
+SD_card_SPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+21.5
+ 20
+-8.5
+ 11
+21.5
+ 21
+2.9
+  0
+LINE
+  5
+196
+100
+AcDbEntity
+  8
+SD_card_SPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+15.8
+ 20
+4.9
+ 11
+19.5
+ 21
+4.9
+  0
+LINE
+  5
+197
+100
+AcDbEntity
+  8
+SD_card_SPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+20.5
+ 20
+4.4
+ 11
+20.5
+ 21
+-11.5
+  0
+LINE
+  5
+198
+100
+AcDbEntity
+  8
+SD_card_SPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+19.5
+ 20
+4.9
+ 11
+20.5
+ 21
+4.4
+  0
+LINE
+  5
+199
+100
+AcDbEntity
+  8
+SD_card_SPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+20.6
+ 20
+3.4
+ 11
+21.5
+ 21
+2.9
+  0
+LINE
+  5
+19A
+100
+AcDbEntity
+  8
+SD_card_SPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+15.8
+ 20
+3.4
+ 11
+20.6
+ 21
+3.4
   0
 ENDSEC
   0
